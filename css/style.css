@@ -14,7 +14,7 @@ header, footer {
 /*  min-width: 500px; */
 }
 header {
-  font-family: Work Sans;
+  font-family: Roboto Slab;
   color: #FFE3EB;
   min-height: 100vh;
   display: flex;
@@ -32,7 +32,7 @@ main {
   }
 
   h1 {
-  font-family: Poppins;
+  font-family: Merriweather;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -40,7 +40,7 @@ main {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: Roboto Slab;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -116,7 +116,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: Merriweather;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -127,7 +127,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: Merriweather;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
