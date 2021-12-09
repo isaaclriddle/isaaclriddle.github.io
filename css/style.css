@@ -137,7 +137,7 @@ footer {
 
 footer div {
   height: 100%;
-  font-family: Roboto Slab
+  
   font-size: 14px;
   display: flex;
   align-content: center;
@@ -158,10 +158,6 @@ footer div {
 .icons a {
   margin: 0 8px;
   color: #FFFFFF;
-}
-
-.icons a:hover {
-  color: #FFFFFF
 }
 
 @media all and (max-width:700px) {
